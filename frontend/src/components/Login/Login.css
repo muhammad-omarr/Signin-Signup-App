@@ -1,0 +1,12 @@
+* {
+  align-items: center;
+}
+
+.formContainer {
+  padding: 5%;
+  text-align: center;
+}
+
+.formContainer > h1 {
+  margin-bottom: 5%;
+}
